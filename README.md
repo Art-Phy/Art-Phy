@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola, mi nombre es Arturo 👋
+![Diseño sin título](https://github.com/Art-Phy/Art-Phy/assets/155635151/91d0fe94-700b-4f0b-b96c-dab2f60b6eb0)
 <!--
 **Art-Phy/Art-Phy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
