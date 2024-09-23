@@ -1,5 +1,5 @@
 # Bienvenidos a mi Mundo 👋
-![Diseño sin título](https://github.com/Art-Phy/Art-Phy/assets/155635151/91d0fe94-700b-4f0b-b96c-dab2f60b6eb0)
+![Tiburon](https://github.com/user-attachments/assets/697af7b7-b09c-474f-bd2f-6bcedd360295)
 
 ## Sobre mi
 Soy Art-Phy y estoy enganchado a la tecnología
