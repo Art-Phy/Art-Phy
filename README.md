@@ -1,7 +1,8 @@
 # Bienvenidos a mi Mundo 👋
-![Tiburon](https://github.com/user-attachments/assets/697af7b7-b09c-474f-bd2f-6bcedd360295)
+![Logo](https://github.com/user-attachments/assets/63eb58bf-7470-4dea-be19-0097679d3f3c)
 
 ## Sobre mi
+
 Soy Art-Phy y estoy enganchado a la tecnología
 
 ### Intereses
