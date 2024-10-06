@@ -1,5 +1,6 @@
-# Bienvenidos a mi Mundo 👋
-![Logo](https://github.com/user-attachments/assets/63eb58bf-7470-4dea-be19-0097679d3f3c)
+# Bienvenidos a mi Mundo 🚀
+![Banner](https://github.com/user-attachments/assets/9986cd92-fc1e-4d48-adb9-48966df7d1f0)
+
 
 ## Sobre mi
 Soy Art y estoy enganchado a la tecnología
