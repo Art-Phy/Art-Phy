@@ -3,7 +3,7 @@
 
 [![discord](https://img.shields.io/badge/-yellow?logo=discord&logoColor=white)](https://discordapp.com/users/1192191044549361889)[![Discord(/1192191044549361889)](https://img.shields.io/badge/Art_Phy-blue.svg)](https://discordapp.com/users/1192191044549361889)
 
-## Sobre mi
+### Sobre mi
 Soy Arturo y si tiene botoncitos...me interesa
 
 ### Intereses
