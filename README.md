@@ -8,6 +8,7 @@ Soy Arturo y si tiene botoncitos...me interesa
 
 ### Intereses
  - Ahora mismo estoy perfeccionando :snake:
+ - MySQL también está en trámites de perfeccionamiento
  - Estoy abierto a cualquier tipo de colaboración
 
  - 📫 Puedes contactarme por aquí o en mi Discord
