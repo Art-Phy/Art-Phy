@@ -9,6 +9,7 @@ Soy Arturo y si tiene botoncitos...me interesa
 ### Intereses
  - :snake:
  - MySQL
+ - 🐬
  - Estoy abierto a cualquier tipo de colaboración
 
  - 📫 Puedes contactarme por aquí o en mi Discord
