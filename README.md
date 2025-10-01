@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/-💬_Hablemos-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1192191044549361889)
-[![Profile](https://img.shields.io/badge/-👨‍💻_Portfolio-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![Profile](https://img.shields.io/badge/-👨‍💻_Portfolio-2EA043?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/tu-usuario](https://github.com/Art-Phy))
 
 </div>
 
