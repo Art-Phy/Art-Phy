@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/badge/-💬_Hablemos-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1192191044549361889)
 [![Bluesky](https://img.shields.io/badge/-🔵_Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/art-phy.bsky.social)
-[![Profile](https://img.shields.io/badge/-👨‍💻_Portfolio-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Art-Phy)
+[![Profile](https://img.shields.io/badge/-👨‍💻_Portfolio-6C757D?style=for-the-badge&logo=earth&logoColor=white)](https://arturosanma.com/#home)
 
 </div>
 
