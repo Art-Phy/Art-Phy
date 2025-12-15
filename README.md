@@ -1,6 +1,6 @@
 ## 🚀 ¡Hola, soy Arturo! 
 
-![Banner](https://github.com/user-attachments/assets/9986cd92-fc1e-4d48-adb9-48966df7d1f0)
+![Banner](https://github.com/user-attachments/assets/1e8255eb-0778-4bcd-a487-637b5d812837)
 
 <div align="center">
 
